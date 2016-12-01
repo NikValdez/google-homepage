@@ -1,0 +1,54 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+li {
+    float: right;
+    padding: 24px 15px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+img {
+	display: block;
+	margin: 0 auto;
+	height: 175px;
+}
+input {
+	display: block;
+	margin: 0 auto;
+	width: 500px;
+	height: 30px;
+	font-size: 16px;
+	outline-color: blue;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 95%;
+}
+.footertwo {
+    position: fixed;
+    bottom: 0;
+    width: 35%;
+}
+button {
+	display: inline;
+	margin: 30px auto;
+	width: 150px;
+	height: 30px;
+	font-size: 15px;
+    
+}
+
+
+
